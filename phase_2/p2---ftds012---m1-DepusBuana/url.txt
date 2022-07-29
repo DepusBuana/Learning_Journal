@@ -1,0 +1,5 @@
+URL front end:
+https://ml1p2-gusti-ayu-fe.herokuapp.com/
+
+URL backend:
+http://tf-p2m1-gusti-ayu-be.herokuapp.com

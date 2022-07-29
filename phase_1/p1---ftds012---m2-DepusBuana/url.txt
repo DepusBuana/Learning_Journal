@@ -1,0 +1,11 @@
+URL frontend: 
+https://ml2p1-12-gusti-ayu-dewi-p-fe.herokuapp.com/
+
+URL backend:
+https://ml2p1-ftds12-gusti-ayu-dewi-p.herokuapp.com/
+
+Dataset URL:
+https://www.kaggle.com/datasets/binaryjoker/airline-passenger-satisfaction
+
+Other source (description for dataset):
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction

@@ -1,0 +1,8 @@
+URL frontend:
+https://p2m2-ftds12-gusti-ayu-dewi-fe.herokuapp.com/
+
+URL backend:
+https://p2m2-ftds12-gusti-ayu-dewi-be.herokuapp.com/
+
+URL dataset:
+https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
